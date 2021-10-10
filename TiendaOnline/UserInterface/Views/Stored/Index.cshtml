@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tienda</h1>
+<section id="contentStored" class="row"></section>
+<section id="pagination"></section>
+<script src="~/js/generic.js"></script>
+<script>
+    window.onload = function () {
+        GetAll(1);
+    }
+    function GetAll(page) {
+        console.time('GenerateDOM');
+        peticion.get('/api/ProductAPI/' + page, function (data) {
+            dom.cardProduct(data['items'], 'contentStored')
+            dom.panelPagination(data,'pagination');
+        })
+        console.timeEnd('GenerateDOM');
+    }
+    function BackPage(page) {
+        if (page > 0)
+            GetAll(page);
+    }
+    function NextPage(page) {
+        GetAll(page);
+    }
+</script>

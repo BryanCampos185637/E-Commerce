@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "alertify.js@0.3.11",
+      "destination": "wwwroot/lib/alertify.js/",
+      "files": [
+        "alertify.min.js",
+        "alertify.bootstrap.min.css",
+        "alertify.core.min.css",
+        "alertify.default.min.css"
+      ]
+    },
+    {
+      "library": "mdbootstrap@4.20.0",
+      "destination": "wwwroot/lib/mdbootstrap/",
+      "files": [
+        "js/mdb.min.js",
+        "css/mdb.min.css"
+      ]
+    },
+    {
+      "library": "bootstrap@5.1.1",
+      "destination": "wwwroot/lib/bootstrap-5/",
+      "files": [
+        "js/bootstrap.min.js",
+        "css/bootstrap.min.css"
+      ]
+    },
+    {
+      "library": "font-awesome@5.15.4",
+      "destination": "wwwroot/lib/font-awesome/font-awesome/"
+    }
+  ]
+}

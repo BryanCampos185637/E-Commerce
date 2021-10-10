@@ -1,0 +1,17 @@
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\Service.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.pdb
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\Model.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\PersistenceData.dll
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\PersistenceData.pdb
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\bin\Debug\net5.0\Model.pdb
+C:\Users\Bryan J. Campos\Documents\GitHub\Ecommerce\TiendaOnline\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
