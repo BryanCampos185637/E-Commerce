@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj": {}
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj": {
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan J. Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",

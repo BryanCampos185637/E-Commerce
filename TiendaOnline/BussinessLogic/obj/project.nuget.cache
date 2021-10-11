@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSu2DcJMzb+uU7Zx3QEevomlmPkHiQN02XtJ4PmVXCVD0Vw9arfXbnianZqQapAMuYo77Lo0ScBGfQftrU0C3A==",
+  "dgSpecHash": "K3D/roGPNuucBovFDxUiUT4arH2InWSv0LFx7lcmn91BzIk89U7cB1PrBGgGwT4/GtmjDtWJ9+y3qE7GxXvMVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.10\\microsoft.aspnetcore.cryptography.keyderivation.5.0.10.nupkg.sha512",

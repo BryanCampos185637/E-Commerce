@@ -47,7 +47,7 @@ namespace Service.Services
 
         public async Task<DataCollection<ProductDTO>> Pagination(DataCollection<ProductDTO> model)
         {
-            return await db.Products.Include(x => x.Category).Include(p => p.Supplier)
+            return await db.Products.Include(x => x.Category).Include(p => p.Supplier).Where(p => p.Status == true)
                 .OrderByDescending(x => x.ProductId).Select(p => new ProductDTO
                 {
                     ProductId = p.ProductId,

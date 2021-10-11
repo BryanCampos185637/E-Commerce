@@ -23,7 +23,7 @@ let peticion = {
             }
         }).then((resp) => {
             if (resp.ok) {
-                return resp.text();
+                return resp.json();
             } else {
                 message.error(resp.statusText + ' status: ' + resp.status);
             }
@@ -43,7 +43,7 @@ let peticion = {
         }).then((resp) => {
             console.log(resp);
             if (resp.ok) {
-                return resp.text();
+                return resp.json();
             } else {
                 message.error(resp.statusText + ' status: ' + resp.status);
             }
@@ -62,7 +62,7 @@ let peticion = {
             }
         }).then((resp) => {
             if (resp.ok) {
-                return resp.text();
+                return resp.json();
             } else {
                 message.error(resp.statusText + ' status: ' + resp.status);
             }

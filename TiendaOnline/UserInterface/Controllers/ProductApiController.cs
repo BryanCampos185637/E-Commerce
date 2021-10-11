@@ -83,5 +83,18 @@ namespace UserInterface.Controllers
                 return new ApiResult(ex.Message == "" || ex.Message == null ? ex.InnerException.Message : ex.Message, ex);
             }
         }
+        [HttpDelete("delete/{pId}")]
+        public async Task<ActionResult<ApiResult>>Delete(int pId)
+        {
+            try
+            {
+                await _UnitOfWork.ProductoService().Delete(pId);
+                return new ApiResult(await _UnitOfWork.SaveChangeAsync());
+            }
+            catch (Exception ex)
+            {
+                return new ApiResult(ex.Message, ex);
+            }
+        }
     }
 }

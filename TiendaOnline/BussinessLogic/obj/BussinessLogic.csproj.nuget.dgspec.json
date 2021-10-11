@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj": {}
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj": {
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
         "projectName": "BussinessLogic",
-        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
+        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\BussinessLogic.csproj",
         "packagesPath": "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\BussinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\BussinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan J. Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj"
+              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj": {
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan J. Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj": {
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj",
         "projectName": "PersistenceData",
-        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj",
+        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj",
         "packagesPath": "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\obj\\",
+        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan J. Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Model\\Model.csproj"
+              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Model\\Model.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj": {
+    "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\obj\\",
+        "outputPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan J. Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,8 +214,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj": {
-                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj"
+              "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj": {
+                "projectPath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\PersistenceData\\PersistenceData.csproj"
               }
             }
           }

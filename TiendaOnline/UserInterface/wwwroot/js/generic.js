@@ -124,20 +124,21 @@ let form = {
     },
     validateEmpty: function (classCss) {
         let controls = document.getElementsByClassName(classCss);
-        let result = true, idTextError = '', span = document.createElement('span');
+        let result = true, idTextError = '', span = '';
         for (let i = 0; i < controls.length; i++) {
             idTextError = 'txtError' + controls[i].name;
+            if (document.getElementById(idTextError) != undefined)
+                document.getElementById(idTextError).remove();
             if (controls[i].value.trim() == '') {
                 result = false;
-                if (document.getElementById('txtError' + controls[i].name) == undefined) {
+                if (document.getElementById(idTextError) == undefined) {
+                    span = document.createElement('p');
                     span.id = idTextError;
-                    span.className = 'text-danger'
-                    controls[i].after(span);
+                    span.className = 'text-danger';
+                    span.innerHTML = '<i class="fas fa-exclamation"></i> Campo requerido';
+                    let nodoPadre = controls[i].parentNode;
+                    nodoPadre.after(span);
                 }
-            } else {
-                controls[i].style.boderColor = '#ccc';
-                if (document.getElementById('txtError' + controls[i].name) != undefined)
-                    document.getElementById('txtError' + controls[i].name).remove();
             }
         }
         return result;
@@ -162,6 +163,13 @@ let form = {
             } else {
                 message.warning('No se encontro el input con el id ' + arrayProperties[i]);
             }
+        }
+    },
+    clearForm: function (className) {
+        let controls = document.getElementsByClassName(className), i = 0;;
+        while (i < controls.length) {
+            controls.value = '';
+            i++;
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3B9WYpXMBtgKqj3MwcUBarH30Pc2r+j9Ij+7eTvNbT0QcpFywGiaMjRLDQUtFMsN+ApQeVK9uTtkQJDPhchAQ==",
+  "dgSpecHash": "kEao1ap/fcAVZzgio/3IS1WFNPpnidYs96Yx8woYc6t9BxJj2i7J2fbhoS3CVKf66EDRnCrW9QDYhRw2eRrU+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\UserInterface\\UserInterface.csproj",
+  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\UserInterface\\UserInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",

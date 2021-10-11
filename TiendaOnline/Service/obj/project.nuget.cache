@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xsf22S7xf0J7Ivoe2KGw32oigDjmEqN2dAqyBuCeJ/KKBgcPYvNMxULNCldakNQ1mCuVOyZ0f6fRMvDjC8+vYw==",
+  "dgSpecHash": "bw/TobDbh4wyo0Hp/4OHCcXjE2VMjpHWvBjVXaSIUE9QZenZjPaCGbKiHc76UsoO95YCJJLS/MMXVdCB9HMINw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\Ecommerce\\TiendaOnline\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\Bryan J. Campos\\Documents\\GitHub\\E-Commerce\\TiendaOnline\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
     "C:\\Users\\Bryan J. Campos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.10\\microsoft.aspnetcore.cryptography.keyderivation.5.0.10.nupkg.sha512",
